@@ -1,5 +1,0 @@
-{
-  "onCreateCommand": {
-    "claude-code-install": "npm install -g @anthropic-ai/claude-code"
-  }
-}
