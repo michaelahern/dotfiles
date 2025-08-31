@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-feature-settings: "ss06", "zero";
+  font-style: normal;
+  font-weight: 400;
+  src: local("IBM Plex Mono"), url("https://cdn.jsdelivr.net/npm/@ibm/plex-mono@1.1.0/fonts/complete/woff2/IBMPlexMono-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-feature-settings: "ss06", "zero";
+  font-style: italic;
+  font-weight: 400;
+  src: local("IBM Plex Mono Italic"), url("https://cdn.jsdelivr.net/npm/@ibm/plex-mono@1.1.0/fonts/complete/woff2/IBMPlexMono-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-feature-settings: "ss06", "zero";
+  font-style: normal;
+  font-weight: 700;
+  src: local("IBM Plex Mono Bold"), url("https://cdn.jsdelivr.net/npm/@ibm/plex-mono@1.1.0/fonts/complete/woff2/IBMPlexMono-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-feature-settings: "ss06", "zero";
+  font-style: italic;
+  font-weight: 700;
+  src: local("IBM Plex Mono Bold Italic"), url("https://cdn.jsdelivr.net/npm/@ibm/plex-mono@1.1.0/fonts/complete/woff2/IBMPlexMono-BoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-feature-settings: "zero";
+  font-style: normal;
+  font-weight: 400;
+  src: local("JetBrains Mono"), url("https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@v2.304/fonts/webfonts/JetBrainsMono-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-feature-settings: "zero";
+  font-style: italic;
+  font-weight: 400;
+  src: local("JetBrains Mono Italic"), url("https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@v2.304/fonts/webfonts/JetBrainsMono-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-feature-settings: "zero";
+  font-style: normal;
+  font-weight: 700;
+  src: local("JetBrains Mono Bold"), url("https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@v2.304/fonts/webfonts/JetBrainsMono-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-feature-settings: "zero";
+  font-style: italic;
+  font-weight: 700;
+  src: local("JetBrains Mono Bold Italic"), url("https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@v2.304/fonts/webfonts/JetBrainsMono-BoldItalic.woff2") format("woff2");
+}
