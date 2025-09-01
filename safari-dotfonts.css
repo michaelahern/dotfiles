@@ -64,5 +64,28 @@
 
 @font-face {
   font-family: "TX-02";
-  src: url("https://cdn.jsdelivr.net/gh/michaelahern/dotfiles/.local/share/fonts/tx-02/TX-02-Variable.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  src: local("TX-02"), url("https://cdn.jsdelivr.net/gh/michaelahern/dotfiles/.local/share/fonts/tx-02/TX-02-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "TX-02";
+  font-style: italic;
+  font-weight: 400;
+  src: local("TX-02 Oblique"), url("https://cdn.jsdelivr.net/gh/michaelahern/dotfiles/.local/share/fonts/tx-02/TX-02-Oblique.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "TX-02";
+  font-style: normal;
+  font-weight: 700;
+  src: local("TX-02 Bold"), url("https://cdn.jsdelivr.net/gh/michaelahern/dotfiles/.local/share/fonts/tx-02/TX-02-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "TX-02";
+  font-style: italic;
+  font-weight: 700;
+  src: local("TX-02 Bold Oblique"), url("https://cdn.jsdelivr.net/gh/michaelahern/dotfiles/.local/share/fonts/tx-02/TX-02-Bold-Oblique.ttf") format("truetype");
 }
