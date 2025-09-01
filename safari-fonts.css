@@ -61,3 +61,31 @@
   font-weight: 700;
   src: local("JetBrains Mono Bold Italic"), url("https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@v2.304/fonts/webfonts/JetBrainsMono-BoldItalic.woff2") format("woff2");
 }
+
+@font-face {
+  font-family: "TX-02";
+  font-style: normal;
+  font-weight: 400;
+  src: local("TX-02"), url("https://cdn.jsdelivr.net/gh/michaelahern/dotfiles/.local/share/fonts/tx-02/TX-02-Regular.ttf") format("woff2");
+}
+
+@font-face {
+  font-family: "TX-02";
+  font-style: italic;
+  font-weight: 400;
+  src: local("TX-02 Oblique"), url("https://cdn.jsdelivr.net/gh/michaelahern/dotfiles/.local/share/fonts/tx-02/TX-02-Oblique.ttf") format("woff2");
+}
+
+@font-face {
+  font-family: "TX-02";
+  font-style: normal;
+  font-weight: 700;
+  src: local("TX-02 Bold"), url("https://cdn.jsdelivr.net/gh/michaelahern/dotfiles/.local/share/fonts/tx-02/TX-02-Bold.ttf") format("woff2");
+}
+
+@font-face {
+  font-family: "TX-02";
+  font-style: italic;
+  font-weight: 700;
+  src: local("TX-02 Bold Oblique"), url("https://cdn.jsdelivr.net/gh/michaelahern/dotfiles/.local/share/fonts/tx-02/TX-02-Bold-Oblique.ttf") format("woff2");
+}

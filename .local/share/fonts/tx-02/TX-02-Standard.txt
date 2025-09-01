@@ -1,0 +1,85 @@
+
+┌┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┐
+├┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┤
+├─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┤
+│ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │
+├─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤
+│ │ │ │ │ │ │ │ │ │U│.│S│.│ │G│R│A│P│H│I│C│S│ │C│O│M│P│A│N│Y│ │ │ │ │ │ │ │ │ │
+├─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤
+│ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │
+├─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┤
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                 ~~ INFO ~~                                  │
+├──────────────┬──────────────────────────────────────────────────────────────┤
+│ TYPEFACE     │ TX-02 Berkeley Mono™ Typeface Family                         │
+│ VERSION      │ 2.002                                                        │
+│ RELEASED ON  │ 2024-12-31                                                   │
+│ TICKET No.   │ YJLMJZ07                                                     │
+│ BUILD DATE   │ 2025-09-01 15:14:09 UTC                                      │
+│ FONT COUNT   │ 4 Fonts                                                      │
+│ GLYPH COUNT  │ 2576 Glyphs                                                  │
+│ BUILD TIME   │ 4.62 seconds                                                 │
+│ SERVICE No.  │ R1349W04XR                                                   │
+│ SERVICE      │ TS-024 Berkeley Mono™ Standard Compiler                      │
+│ SERVICE TIER │ STANDARD                                                     │
+│ LICENSE No.  │ 4PQV-73W5-3605-4701                                          │
+│ LICENSE      │ LT-02 Developer Font License                                 │
+├──────────────┴──────────────────────────────────────────────────────────────┤
+│                                ~~ FONTS ~~                                  │
+├──────────────┬──────────────────────────────────────────────────────────────┤
+│ TX-02-772M   │ Regular                                                      │
+│ TX-02-774M   │ Oblique                                                      │
+│ TX-02-7B2M   │ Bold                                                         │
+│ TX-02-7B4M   │ Bold Oblique                                                 │
+├──────────────┴──────────────────────────────────────────────────────────────┤
+│                         ~~ BUILD SPECIFICATIONS ~~                          │
+├──────────────┬──────────────────────────────────────────────────────────────┤
+│ FC-001       │ 7                                                            │
+│ FC-002       │ 7B                                                           │
+│ FC-003       │ 24                                                           │
+│ FC-004       │ zero.slashed                                                 │
+│ FC-005       │ seven.standard                                               │
+│ FC-008       │ off                                                          │
+│ FC-009       │ off                                                          │
+│ FC-010       │ desktop_ttf                                                  │
+│ FC-016       │ sku                                                          │
+├──────────────┴──────────────────────────────────────────────────────────────┤
+│                                ~~ FILES ~~                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ TX-02-Regular.ttf                                                           │
+│ TX-02-Oblique.ttf                                                           │
+│ TX-02-Bold.ttf                                                              │
+│ TX-02-Bold-Oblique.ttf                                                      │
+│ README.txt                                                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                         ~~ LOGS (2025-09-01 UTC) ~~                         │
+├──────────────┬──────────────────────────────────────────────────────────────┤
+│ 15:14:04.414 │ INIT: Querying database for build ticket information         │
+│ 15:14:04.416 │ INIT: Generated Package ID: 250901NMQP4Q327N                 │
+│ 15:14:04.416 │ INIT: Loading static font compiler                           │
+│ 15:14:04.417 │ FEATURES: Processing FC-010: Set TTF format                  │
+│ 15:14:04.524 │ FEATURES: Processing FC-004: Target: zero, Source: zero.slas │
+│ 15:14:04.524 │ FEATURES: Processing FC-005: Target: seven, Source: seven.st │
+│ 15:14:06.656 │ INTERPOLATE: Regular                                         │
+│ 15:14:07.196 │ INTERPOLATE: Oblique                                         │
+│ 15:14:07.248 │ INTERPOLATE: Bold                                            │
+│ 15:14:07.300 │ INTERPOLATE: BoldOblique                                     │
+│ 15:14:07.526 │ INTERPOLATE: Interpolating 4 instances                       │
+│ 15:14:07.526 │ COMPILE: TTF, TX-02-Regular                                  │
+│ 15:14:07.826 │ DISK IO: Saving tmp0ng4fouh.ttf to ramdisk                   │
+│ 15:14:07.909 │ COMPILE: TTF, TX-02-Oblique                                  │
+│ 15:14:08.205 │ DISK IO: Saving tmp8pp574_9.ttf to ramdisk                   │
+│ 15:14:08.285 │ COMPILE: TTF, TX-02-Bold                                     │
+│ 15:14:08.579 │ DISK IO: Saving tmplqt5c4zz.ttf to ramdisk                   │
+│ 15:14:08.660 │ COMPILE: TTF, TX-02-BoldOblique                              │
+│ 15:14:08.955 │ DISK IO: Saving tmpazdn7rtp.ttf to ramdisk                   │
+│ 15:14:09.036 │ PACKAGE: Compressing font package 250901NMQP4Q327N.zip       │
+│ 15:14:09.036 │ PACKAGE: Uploading font package to AWS S3                    │
+├──────────────┴──────────────────────────────────────────────────────────────┤
+│                                ~~ LEGAL ~~                                  │
+├──────────────┬──────────────────────────────────────────────────────────────┤
+│ COPYRIGHT    │ Copyright 2022-2025. All Rights Reserved.                    │
+│              │ Intellectual Property of U.S. Graphics, LLC.                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+├┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┤
+└┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┘
