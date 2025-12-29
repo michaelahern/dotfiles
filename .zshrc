@@ -104,3 +104,9 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 DISABLE_AUTO_UPDATE=true
 DISABLE_UPDATE_PROMPT=true
+
+# Claude Code AWS Bedrock Configuration
+if [[ -n "$AWS_BEARER_TOKEN_BEDROCK" ]]; then
+  export CLAUDE_CODE_USE_BEDROCK="true"
+  export AWS_REGION="${AWS_REGION:-${AWS_DEFAULT_REGION:-us-east-2}}"
+fi
