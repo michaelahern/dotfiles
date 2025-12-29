@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "AWS Knowledge": {
+      "url": "https://knowledge-mcp.global.api.aws"
+    },
+    "Cloudflare Docs": {
+      "url": "https://docs.mcp.cloudflare.com/mcp"
+    },
+    "DeepWiki": {
+      "url": "https://mcp.deepwiki.com/mcp"
+    },
+    "GitHub": {
+      "url": "https://api.githubcopilot.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:GITHUB_TOKEN}",
+        "X-MCP-Readonly": "true"
+      }
+    },
+    "Microsoft Learn": {
+      "url": "https://learn.microsoft.com/api/mcp"
+    }
+  }
+}
