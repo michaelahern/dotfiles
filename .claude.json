@@ -8,6 +8,13 @@
       "type": "http",
       "url": "https://docs.mcp.cloudflare.com/mcp"
     },
+    "Context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "CONTEXT7_API_KEY": "${CONTEXT7_API_KEY}"
+      }
+    },
     "DeepWiki": {
       "type": "http",
       "url": "https://mcp.deepwiki.com/mcp"
